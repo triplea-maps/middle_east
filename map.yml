@@ -1,0 +1,3 @@
+map_name: middle_east
+games:
+- {game_name: Middle East, file_name: middle_east.xml}
